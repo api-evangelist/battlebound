@@ -34,6 +34,9 @@ description: Battlebound was a Los Angeles-based blockchain / play-to-earn game 
   is parked and listed for sale. The company never published a public API, SDK, or
   developer platform, so there is no API surface to catalog or enrich.
 url: https://raw.githubusercontent.com/api-evangelist/battlebound/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "The company never published a public API, SDK, or developer platform, so there is no API surface to catalog or enrich."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
